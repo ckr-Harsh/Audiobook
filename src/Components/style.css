@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: rgb(63, 61, 61);
+  cursor: pointer;
+}
+.demo {
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  margin: 50px 20px;
+}
+.box:hover {
+  box-shadow: 7px 5px 5px rgba(34, 98, 200, 0.4);
+}
+.git {
+  position: absolute;
+  right: 5px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  transform: scale(1.5);
+}
+@media (max-width: 786px) {
+  .demo {
+    flex-wrap: wrap;
+  }
+}
