@@ -1,5 +1,7 @@
 ## Demo Audiobook App
 
+
+[Demo](https://ckr-harsh.github.io/Audiobook/)
 Audiobook type demp app created using [React](http://facebook.github.io/react/index.html) and Material UI .Just a landing page . Here you can listen or download from given OSTs
 
 ![screenshot](/screenshot.png)
@@ -23,4 +25,4 @@ If you would like to download the code and try it for yourself:
 2. `cd news-app`
 3. Install packages: `npm install`
 4. Launch: `npm start`
-5. Open your browser at: `http://localh ost:3000`
+5. Open your browser at: `http://localhost:3000`
