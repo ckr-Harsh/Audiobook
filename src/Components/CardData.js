@@ -1,5 +1,5 @@
 
-import Jojo from './Store/jojo.jfif'
+import Jojo from './Store/Jojo.jfif'
 import tGhoul from './Store/tGhoul.jfif'
 import onePiece from './Store/onePiece.jfif'
 import JojoM from './Store/jojo.mp3'
