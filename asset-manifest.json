@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Audiobook/static/css/main.c77400b6.chunk.css",
-    "main.js": "/Audiobook/static/js/main.13cb1903.chunk.js",
-    "main.js.map": "/Audiobook/static/js/main.13cb1903.chunk.js.map",
+    "main.js": "/Audiobook/static/js/main.71a4fd64.chunk.js",
+    "main.js.map": "/Audiobook/static/js/main.71a4fd64.chunk.js.map",
     "runtime-main.js": "/Audiobook/static/js/runtime-main.84119851.js",
     "runtime-main.js.map": "/Audiobook/static/js/runtime-main.84119851.js.map",
-    "static/js/2.5a6ee4c1.chunk.js": "/Audiobook/static/js/2.5a6ee4c1.chunk.js",
-    "static/js/2.5a6ee4c1.chunk.js.map": "/Audiobook/static/js/2.5a6ee4c1.chunk.js.map",
+    "static/js/2.c07444b2.chunk.js": "/Audiobook/static/js/2.c07444b2.chunk.js",
+    "static/js/2.c07444b2.chunk.js.map": "/Audiobook/static/js/2.c07444b2.chunk.js.map",
     "index.html": "/Audiobook/index.html",
     "static/css/main.c77400b6.chunk.css.map": "/Audiobook/static/css/main.c77400b6.chunk.css.map",
-    "static/js/2.5a6ee4c1.chunk.js.LICENSE.txt": "/Audiobook/static/js/2.5a6ee4c1.chunk.js.LICENSE.txt",
+    "static/js/2.c07444b2.chunk.js.LICENSE.txt": "/Audiobook/static/js/2.c07444b2.chunk.js.LICENSE.txt",
     "static/media/Jojo.031ce9bf.jfif": "/Audiobook/static/media/Jojo.031ce9bf.jfif",
     "static/media/jojo.72383243.mp3": "/Audiobook/static/media/jojo.72383243.mp3",
     "static/media/onePiece.81dbba53.mp3": "/Audiobook/static/media/onePiece.81dbba53.mp3",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.84119851.js",
-    "static/js/2.5a6ee4c1.chunk.js",
+    "static/js/2.c07444b2.chunk.js",
     "static/css/main.c77400b6.chunk.css",
-    "static/js/main.13cb1903.chunk.js"
+    "static/js/main.71a4fd64.chunk.js"
   ]
 }
