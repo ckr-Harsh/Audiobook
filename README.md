@@ -19,7 +19,7 @@ Key tools used in this React project are:
 
 If you would like to download the code and try it for yourself:
 
-1. Clone the repo: `https://github.com/traptrick/news-app.git`
+1. Clone the repo: `https://github.com/ckr-Harsh/Audiobook.git`
 2. `cd news-app`
 3. Install packages: `npm install`
 4. Launch: `npm start`
