@@ -2,7 +2,7 @@
 
 Audiobook type demp app created using [React](http://facebook.github.io/react/index.html) and Material UI .Just a landing page . Here you can listen or download from given OSTs
 
-![screenshot](https://github.com/ckr-Harsh/Audiobook/blob/main/screenshot.PNG)
+![screenshot](/screenshot.png)
 
 ## Tools
 
